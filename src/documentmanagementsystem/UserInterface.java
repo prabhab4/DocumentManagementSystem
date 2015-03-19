@@ -33,7 +33,7 @@ public class UserInterface extends javax.swing.JFrame {
         addFileButton2 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Document Management Systems | By Kyle");
+        setTitle("Document Management Systems | By Prabhab");
         setBackground(new java.awt.Color(255, 51, 0));
         setName("userWindow"); // NOI18N
         setResizable(false);
